@@ -1,9 +1,9 @@
-import React from 'react';
+import Navbar from '../../components/header/Navbar';
 
 const Pokemon = () => {
     return (
         <div>
-            <h1>pokemon</h1>
+            <Navbar />
         </div>
     );
 };

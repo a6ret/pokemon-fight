@@ -10,6 +10,7 @@ const App = () => {
                 <Route path='pokemon' element={<Pokemon />}>
                     <Route path=':pokemonId' element={<Pokemon />} />
                 </Route>
+                <Route path='help' element={<Home />} />
             </Routes>
         </BrowserRouter>
     );
