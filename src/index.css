@@ -14,7 +14,7 @@ body {
     background-color: #121525;
 }
 
-.active {   
-    color: #fff;
-    text-decoration: none !important;
+.active {
+    color: yellow;
+    text-decoration: none;
 }
